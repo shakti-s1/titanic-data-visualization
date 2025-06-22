@@ -2,7 +2,7 @@
 
 An interactive web-based data visualization project analyzing the famous Titanic dataset. This project explores passenger survival patterns, demographics, and provides insights through modern, responsive visualizations.
 
-![Titanic Dashboard Preview](https://shakti-s1.github.io/titanic-data-visualization/)
+Visit the site: https://shakti-s1.github.io/titanic-data-visualization/
 
 ## ✨ Features
 
